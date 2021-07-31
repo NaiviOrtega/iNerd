@@ -159,7 +159,7 @@
                 "subType": "watch308",
                 "crop_name": "watch308"
             }
-        ],                                                                                                                    ],
+        ],
         "headline": { "main": "The Next Tech Frontier", "kicker": null, "content_kicker": null, "print_headline": null, "name": null, "seo": null, "sub": null },
         "keywords": [],
         "pub_date": "2015-09-27T10:30:26+0000",
