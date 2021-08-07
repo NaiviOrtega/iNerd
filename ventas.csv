@@ -1,7 +1,0 @@
-SalesOrderID,SalesOrderDetailID,OrderQty,UnitPriceWithDiscount,UnitPrice,UnitPriceDiscount,LineTotal,ProductID,productName,StandardCost,ListPrice,productCategoryName,CompanyName,ShipMethod,DueDate,shipToAddressCity,sucursal,
-999980,999980,1,2024.994,2024.994,0,2024.99,776,Mountain-100 Black," 42""""",1898.0944,3374.99,Bikes,Next-Door Bike Store,ZY - EXPRESS,01/07/2021 00:00,Auburn,Sucursal 2
-999981,999981,1,2024.994,2024.994,0,2024.99,776,Mountain-100 Black," 42""""",1898.0944,3374.99,Bikes,Professional Sales and Service,ZY - EXPRESS,01/07/2021 00:00,Auburn,Sucursal 2
-999982,999982,1,2024.994,2024.994,0,2024.99,776,Mountain-100 Black," 42""""",1898.0944,3374.99,Bikes,New Bikes Company,ZY - EXPRESS,01/07/2021 00:00,Wokingham,Sucursal 2
-999983,999983,4,874.794,874.794,0,3499.176,756,Road-450 Red," 44""""",884.7083,1457.99,Components,Sellers of Cycles,ZY - EXPRESS,02/07/2021 00:00,London,Sucursal 2
-"
-",,,,,,,,,,,,,,,,,
