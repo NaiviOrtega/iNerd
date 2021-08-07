@@ -1,5 +1,5 @@
 ﻿SalesOrderID,SalesOrderDetailID,OrderQty,UnitPriceWithDiscount,UnitPrice,UnitPriceDiscount,LineTotal,ProductID,productName,StandardCost,ListPrice,productCategoryName,CompanyName,ShipMethod,DueDate,shipToAddressCity,sucursal
 999980,999980,4,218.454,218.454,0,873.816,905,"ML Mountain Frame-W - Silver, 42",199.3757,364.09,Mountain Frames,Nearby Cycle Shop,CARGO TRANSPORT 5,01/07/2021 00:00,Toronto,Sucursal 2
 999981,999981,2,461.694,461.694,0,923.388,983,"Mountain-400-W Silver, 46",419.7784,769.49,Mountain Bikes,Nearby Cycle Shop,CARGO TRANSPORT 5,01/07/2021 00:00,Toronto,Sucursal 2
-999982,999982,3,647.994,647.994,0,1943.982,788,"Mountain-300 Black, 48",598.4354,1079.99,Bikes,Downhill Bicycle Specialists,ZY - EXPRESS,01/07/2021 00:00,Seattle,Sucursal 2
-999983,999983,5,1229.4589,1229.4589,0,6147.2945,782,"Mountain-200 Black, 38",1251.9813,2294.99,Bikes,Downhill Bicycle Specialists,ZY - EXPRESS,01/07/2021 00:00,Seattle,Sucursal 2
+999982,999982,3,647.994,647.994,0,1943.982,788,"Mountain-300 Black, 48",598.4354,1079.99,Bikes,Downhill Bicycle Specialists,OVERNIGHT J-FAST,01/07/2021 00:00,Seattle,Sucursal 2
+999983,999983,5,1229.4589,1229.4589,0,6147.2945,782,"Mountain-200 Black, 38",1251.9813,2294.99,Bikes,Downhill Bicycle Specialists,OVERNIGHT J-FAST,01/07/2021 00:00,Seattle,Sucursal 2
